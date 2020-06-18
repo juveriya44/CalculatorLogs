@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af5e6434-c638-4f55-9fbf-fe002fe567bc" name="Default Changelist" comment="Viable Product" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dSio019loyukAueMC7VFBNKy1M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Django Server.Unnamed">
+    <configuration type="Python.DjangoServer" factoryName="Django server">
+      <module name="Assessment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="pythonCalculation" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\juver\PycharmProjects\CalculatorAssessment\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="Python.DjangoServer" factoryName="Django server" nameIsGenerated="true">
+      <module name="Assessment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="pythonCalculation" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\juver\PycharmProjects\CalculatorAssessment\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django Server.Unnamed" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af5e6434-c638-4f55-9fbf-fe002fe567bc" name="Default Changelist" comment="" />
+      <created>1592425065332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592425065332</updated>
+      <workItem from="1592425066556" duration="3792000" />
+      <workItem from="1592434453236" duration="7883000" />
+    </task>
+    <task id="LOCAL-00001" summary="Viable Product">
+      <created>1592455954614</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592455954614</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Viable Product">
+      <created>1592456257257</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592456257257</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Viable Product" />
+    <option name="LAST_COMMIT_MESSAGE" value="Viable Product" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="67" width="850" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592428869772">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="67" width="850" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592428869772" />
+    <state x="238" y="153" key="FileChooserDialogImpl" timestamp="1592428615366">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="238" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592428615366" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1592438636900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592438636900" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1592438636900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592438636900" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1592438636900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592438636900" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1592438636900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592438636900" />
+    <state x="0" y="57" width="914" height="709" key="SettingsEditor" timestamp="1592447391734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="57" width="914" height="709" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592447391734" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1592456430998">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592456430998" />
+    <state x="476" y="201" key="git4idea.merge.GitPullDialog" timestamp="1592455848982">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="476" y="201" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1592455848982" />
+    <state x="550" y="314" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1592455926243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="314" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1592455926243" />
+    <state x="548" y="307" key="git4idea.ui.GitResetDialog" timestamp="1592456120663">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="307" key="git4idea.ui.GitResetDialog/0.0.1536.824@0.0.1536.824" timestamp="1592456120663" />
+    <state x="548" y="311" key="git4idea.ui.GitStashDialog" timestamp="1592456136053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="311" key="git4idea.ui.GitStashDialog/0.0.1536.824@0.0.1536.824" timestamp="1592456136053" />
+    <state x="29" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592450098027">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="29" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592450098027" />
+  </component>
+</project>
